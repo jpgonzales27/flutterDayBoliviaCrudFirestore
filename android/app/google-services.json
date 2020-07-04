@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "174928224281",
+    "firebase_url": "https://crudfluterdaybolivia.firebaseio.com",
+    "project_id": "crudfluterdaybolivia",
+    "storage_bucket": "crudfluterdaybolivia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174928224281:android:31370de98f5e4992bf4a88",
+        "android_client_info": {
+          "package_name": "com.example.flutterdaycrudfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174928224281-ihmov8urn474er0avh36vvmec9dt4h02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGVy1ctrsm-nX5dYWxhcm-b4idOW_htVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174928224281-ihmov8urn474er0avh36vvmec9dt4h02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
